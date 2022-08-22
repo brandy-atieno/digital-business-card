@@ -1,0 +1,35 @@
+img{
+height: 317px;
+width: 317px;
+left: 116px;
+top: 44px;
+border-radius: 30px;
+
+}
+h1{
+height: 25px;
+width: 178px;
+left: 186px;
+top: 382px;
+font-size: 25px;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: center;
+
+
+
+}
+h3{
+height: 14px;
+width: 178px;
+left: 186px;
+top: 414px;
+font-size: 13px;
+font-weight: 400;
+line-height: 15px;
+letter-spacing: 0em;
+text-align: center;
+color: rgb(233, 114, 30);
+
+}
