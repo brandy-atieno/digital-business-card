@@ -15,7 +15,7 @@
       <MDBBtn className='m-1' style={{ backgroundColor: '#ac2bac' }} href='#'>
         <MDBIcon className='me-2' fab icon='instagram' />Instagram
       </MDBBtn>
-      <MDBBtn  className='m-1' style={{ backgroundColor: '#333333' }} href='#'>
+      <MDBBtn  className='m-1' style={{ backgroundColor: '#333333' }} href='https://github.com/brandy-atieno'>
         <MDBIcon className='me-2' fab icon='github' />Github
       </MDBBtn>
       

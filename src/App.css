@@ -7,11 +7,12 @@
 body{
 margin:0;
 font-family: Roboto, Helvetica, Arial, sans-serif;
+background-color:rgba(35, 37, 44, 1) ;
+
 }
 
 
 .container {
-  background-color:rgba(35, 37, 44, 1) ;
   color: rgb(231, 233, 243);
 
 }

@@ -8,12 +8,12 @@ export const Info=()=>{
     <div className="item-1">
     <img src={photo} alt="pic"/>
     <h1>BRANDY ATIENO</h1>
-    <h3>FRONT END DEVELOPER</h3>
+    <h2>FRONT END DEVELOPER</h2>
     <div className='btns'>
     <MDBBtn  className='m-1' style={{ backgroundColor: '#333333' }} href='#'>
         <MDBIcon className='me-2' far icon='envelope' />Email
       </MDBBtn>
-      <MDBBtn  style={{ backgroundColor: '#333333' }} href='#'>
+      <MDBBtn className='m-1' style={{ backgroundColor: '#333333' }} href='#'>
         <MDBIcon className='me-2' fab icon='linkedin-in' />LinkedIn
       </MDBBtn>
    </div>
